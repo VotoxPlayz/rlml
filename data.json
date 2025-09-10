@@ -1,0 +1,25 @@
+{
+  "mechanics": [
+    {
+      "rank": 1,
+      "name": "No-Bounce Psycho",
+      "points": 500,
+      "video": "https://youtu.be/example",
+      "victors": ["Player1", "Player2"]
+    },
+    {
+      "rank": 2,
+      "name": "Ceiling Musty Double",
+      "points": 350,
+      "video": "https://youtu.be/example2",
+      "victors": ["Player3"]
+    },
+    {
+      "rank": 50,
+      "name": "Basic Breezi Flick",
+      "points": 5,
+      "video": "https://youtu.be/example50",
+      "victors": []
+    }
+  ]
+}
