@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(180deg, #0a0f1e, #1a2948);
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background: #ff6600;
+  padding: 1rem;
+}
+
+nav a {
+  margin: 0 1rem;
+  color: white;
+  text-decoration: none;
+}
+
+.mechanic-entry {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 1rem auto;
+  max-width: 600px;
+  text-align: left;
+}
